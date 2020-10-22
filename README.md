@@ -37,31 +37,26 @@ When steps is 500
 
 
 <p align="center">
-<img src="../DCGAN-using-Pytorch/images/generated_step500.png"></a>
+<img src="https://github.com/AbhishekSalian/DCGAN-using-Pytorch/blob/main/images/generated_step500.png?raw=true"></a>
 </p>
 
 
 When steps is 1000
 <p align="center">
-<img src="../DCGAN-using-Pytorch/images/generated_step1000.png"></a>
+<img src="https://github.com/AbhishekSalian/DCGAN-using-Pytorch/blob/main/images/generated_step1000.png?raw=true"></a>
 </p>
 
-When steps is 1500
-
-<p align="center">
-<img src="../DCGAN-using-Pytorch/images/generated_step1500.png"></a>
-</p>
 
 When steps is 2000
 
 <p align="center">
-<img src="../DCGAN-using-Pytorch/images/generated_step2000.png"></a>
+<img src="https://github.com/AbhishekSalian/DCGAN-using-Pytorch/blob/main/images/generated_step2000.png?raw=true"></a>
 </p>
 
 When steps is 23k
 
 <p align="center">
-<img src="../DCGAN-using-Pytorch/images/generated_step23k.png"></a>
+<img src="https://github.com/AbhishekSalian/DCGAN-using-Pytorch/blob/main/images/generated_step23k.png?raw=true"></a>
 </p>
 
 
