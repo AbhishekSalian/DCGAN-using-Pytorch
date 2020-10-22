@@ -35,17 +35,12 @@ python train.py --epochs=10 --batch_size=64 --device="gpu"
 
 When steps is 500
 
-<<<<<<< HEAD
-=======
-![image1]("./images/generated_step500.png")
->>>>>>> 3ea165206d4c9e8b76901d4b3daa22c461dbd091
 
 <p align="center">
 <img src="../DCGAN-using-Pytorch/images/generated_step500.png"></a>
 </p>
 
 
-<<<<<<< HEAD
 When steps is 1000
 <p align="center">
 <img src="../DCGAN-using-Pytorch/images/generated_step1000.png"></a>
@@ -68,20 +63,5 @@ When steps is 23k
 <p align="center">
 <img src="../DCGAN-using-Pytorch/images/generated_step23k.png"></a>
 </p>
-=======
-![image1]("./images/generated_step1000.png")
-
-When steps is 1500
-
-![image1]("./images/generated_step1500.png")
-
-When steps is 2000
-
-![image1]("./images/generated_step2000.png")
-
-When steps is 23k
-
-![image1]("./images/generated_step23k.png")
->>>>>>> 3ea165206d4c9e8b76901d4b3daa22c461dbd091
 
 
