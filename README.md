@@ -35,23 +35,23 @@ python train.py --epochs=10 --batch_size=64 --device="gpu"
 
 When steps is 500
 
-![image1]("images/generated_step500.png")
+![image1]("./images/generated_step500.png")
 
 
 When steps is 1000
 
-![image1]("images/generated_step1000.png")
+![image1]("./images/generated_step1000.png")
 
 When steps is 1500
 
-![image1]("images/generated_step1500.png")
+![image1]("./images/generated_step1500.png")
 
 When steps is 2000
 
-![image1]("images/generated_step2000.png")
+![image1]("./images/generated_step2000.png")
 
 When steps is 23k
 
-![image1]("images/generated_step23k.png")
+![image1]("./images/generated_step23k.png")
 
 
