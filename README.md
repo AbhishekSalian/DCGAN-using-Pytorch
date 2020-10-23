@@ -33,7 +33,7 @@ python train.py --epochs=10 --batch_size=64 --device="gpu"
 
 # Output Images during Training DCGAN
 
-When steps is 500
+When step = 500
 
 
 <p align="center">
@@ -41,19 +41,19 @@ When steps is 500
 </p>
 
 
-When steps is 1000
+When step = 1000
 <p align="center">
 <img src="https://github.com/AbhishekSalian/DCGAN-using-Pytorch/blob/main/images/generated_step1000.png?raw=true"></a>
 </p>
 
 
-When steps is 2000
+When step = 2000
 
 <p align="center">
 <img src="https://github.com/AbhishekSalian/DCGAN-using-Pytorch/blob/main/images/generated_step2000.png?raw=true"></a>
 </p>
 
-When steps is 23k
+When steps = 23000
 
 <p align="center">
 <img src="https://github.com/AbhishekSalian/DCGAN-using-Pytorch/blob/main/images/generated_step23k.png?raw=true"></a>
