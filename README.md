@@ -28,7 +28,7 @@ python train.py --epochs=10 --batch_size=32 --device="cpu"
 
 **For GPU**
 ```
-python train.py --epochs=10 --batch_size=64 --device="gpu"
+python train.py --epochs=10 --batch_size=64 --device="cuda"
 ```
 
 # Output Images during Training DCGAN
